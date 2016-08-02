@@ -4,9 +4,9 @@
     "description": "DHIS 2 App Seed",
     "launch_path": "index.html",
     "icons": {
-        "16": "/img/icon.png",
-        "48": "/img/icon.png",
-        "128": "/img/icon.png"
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
     },
     "developer": {
         "name": "Vincent P. Minde",
